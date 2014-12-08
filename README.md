@@ -12,6 +12,7 @@ Clémence recherche des sites pour créer une veille concurrentielle afin de don
 	http://www.larealiteaugmentee.info/realite-augmentee/
 	http://www.theverge.com/a/virtual-reality/intro
 	http://www.laval-virtual.org
+	magazine : http://discovermagazine.com/tags/virtual-reality
 	JEUX : « Groundhog Station »  http://tore-knabe.com/virtual-reality
     http://www.virtualrealityreviewer.com
 
