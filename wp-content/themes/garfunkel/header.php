@@ -10,7 +10,7 @@
 		<title><?php wp_title('|', true, 'right'); ?></title>
 		 
 		<?php wp_head(); ?>
-	
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Open+Sans' rel='stylesheet' type='text/css'>
 	</head>
 	
 	<body <?php body_class(); ?>>
@@ -105,7 +105,7 @@
 						
 						<p>
 							<span class="menu"><?php _e('Menu','garfunkel'); ?></span>
-							<span class="close"><?php _e('Close','garfunkel'); ?></span>
+							<span class="close"><?php _e('Fermer','garfunkel'); ?></span>
 						</p>
 						
 						<div class="clear"></div>
@@ -113,8 +113,6 @@
 					</a>
 				
 				</div> <!-- /toggle-container -->
-		
-
 					
 					<div class="blog-logo">
 					
