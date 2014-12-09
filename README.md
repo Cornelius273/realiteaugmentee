@@ -38,7 +38,7 @@ ____________________________________
 
 09/12/14
 
-CLEMENCE : 
+CLEMENCE : a retouché le footer + met des infos personnalisées dedans + codage en CSS avec 	Alex pour les transformations du logo (couleur quand la souris passe dessus).
 
 ALEX :  a modifié le header.php (pour mettre en français le menu responsive : « fermer » 	au lieu de « close »)
 	
@@ -46,3 +46,9 @@ ALEX :  a modifié le header.php (pour mettre en français le menu responsive : 
 QUENTIN : modification du php pour changer la typo des menus + des articles
 
 AMINE : Création du logo
+
+
+GROS ACCIDENT LE 09/12/14 A 15H25 : A cause d’un problème lié à la connexion, la feuille de style.css a disparue ! Le blog est donc en vrac.
+15H30 : résolution du problème, on dit merci à Github qui avait conservé la page de css originelle. On a pu réparer des dégats mais il faut recommencer les modifications.
+
+
