@@ -355,12 +355,17 @@ a .post-icon img {
 .blog-logo { text-align: center; }
 .blog-logo a { display: inline-block; }
 
-.blog-logo img {
+.blog-logo p{
 	display: block;
 	max-height: 200px;
 	max-width: 100%;
 	height: auto;
 	width: auto;
+	background: url(wp-content/themes/garfunkel/images/logo_vr_lag.png) no-repeat Setup(100%);
+}
+
+.blog-logo p:hover{
+	background: url(wp-content/themes/garfunkel/images/logo_vr_lag_rouge.png) no-repeat Setup(100%);
 }
 
 
